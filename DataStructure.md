@@ -1,5 +1,5 @@
 
-本次Project必須使用的資料結構( Data Structure ):
+本次Project必須使用的資料結構( Data Structure )
 
 ※ 一定要使用此資料結構，否則0分計算( 期中考也會考 )
 
