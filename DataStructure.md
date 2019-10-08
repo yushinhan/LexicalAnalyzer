@@ -1,13 +1,13 @@
 
-本次Project必須使用的資料結構( Data Structure )
+ - 本次Project必須使用的資料結構( Data Structure )
 
-※ 一定要使用此資料結構，否則0分計算( 期中考也會考 )
+ - 一定要使用此資料結構，否則0分計算( 期中考也會考 )
 
 
-資料結構圖示
+ - 資料結構圖示
 http://goo.gl/m83MV
 
-可以下載下來後放大觀看較清楚
+ - 可以下載下來後放大觀看較清楚
 
 
     enum TokenType { IDENTIFIER = 34512, CONSTANT = 87232, SPECIAL = 29742 } ;
